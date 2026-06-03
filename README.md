@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ignacio Negretti
 
-<!--
-**inegretti/inegretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Sistemas | Cloud Support L2 | QA Automation
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 1+ year of experience in Cloud Support
+- Experience with Python, Selenium, Behave and Pytest
+- Linux and Cloud Technologies
+- Continuous learning and professional development
+
+## Certifications
+
+- Microsoft PL-900
+- Red Hat Enterprise Linux Technical Overview
+- Multiple IT and QA certifications
+
+## Portfolio
+
+👉 https://inegretti.github.io
+
+## Technologies
+
+Python • Selenium • Behave • Pytest • Linux • Git • Azure • Arduino • C++ • Java • Javascript • .Net • AWS • Ai and bots
