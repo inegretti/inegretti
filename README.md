@@ -3,7 +3,8 @@
 Analista de Sistemas | Cloud Support L2 | QA Automation
 <img src="banner.gif" width="1000">
 
-## About Me<img width="50" height="59" alt="image" src="https://github.com/user-attachments/assets/a0f7a2aa-00f6-4bf9-bc55-2a59dd5753bf" />
+## About Me<img width="48" height="50" alt="image" src="https://github.com/user-attachments/assets/9f095ab2-7ea1-49ee-9872-bb7810fde2ae" />
+
 
 
 - 2 year of experience in Cloud Support
