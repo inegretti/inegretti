@@ -1,5 +1,5 @@
 # Ignacio Negretti
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/051d9807-1b5a-414e-a2b2-b773335b374f" />
+<div class="tenor-gif-embed" data-postid="26985778" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/videogames-metal-slug-laughing-gif-26985778">Videogames Metal Slug Sticker</a>from <a href="https://tenor.com/search/videogames-stickers">Videogames Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Analista de Sistemas | Cloud Support L2 | QA Automation
 
