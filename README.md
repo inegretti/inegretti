@@ -1,6 +1,8 @@
 # Ignacio Negretti
 
 Analista de Sistemas | Cloud Support L2 | QA Automation
+<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/d445b5e6-a92c-4c28-899d-893581831070" />
+
 
 ## About Me
 
