@@ -3,7 +3,8 @@
 Analista de Sistemas | Cloud Support L2 | QA Automation
 <img src="banner.gif" width="1000">
 
-## About Me<img width="48" height="50" alt="image" src="https://github.com/user-attachments/assets/9f095ab2-7ea1-49ee-9872-bb7810fde2ae" />
+## About Me<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9b3dbaad-1a5e-4317-8199-c78443ff55e0" />
+
 
 
 
