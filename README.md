@@ -23,6 +23,6 @@ Analista de Sistemas | Cloud Support L2 | QA Automation
 
 👉 https://inegretti.github.io
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ea794842-a9ff-45bb-a8fc-7a07369864fe" />Technologies
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2887d549-a835-4040-bbb8-892747e393d5" />Technologies
 
 Python • Selenium • Behave • Pytest • Linux • Git • Azure • Arduino • C++ • Java • Javascript • .Net • AWS • Ai and bots
