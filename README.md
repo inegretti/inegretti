@@ -25,6 +25,7 @@ Analista de Sistemas | Cloud Support L2 | QA Automation
 
 
 
+<img src="gears.gif" width="80">
 Technologies<img src="gears.gif" width="80">
 
 
