@@ -19,7 +19,7 @@ About Me<img src="abm.gif" width="40">
 - Red Hat Enterprise Linux Technical Overview
 - Multiple IT and QA certifications
 
-<img src="brief.gif" width="80">Portfolio
+Portfolio<img src="brief.gif" width="80">
 
 👉 https://inegretti.github.io
 
