@@ -1,7 +1,7 @@
 # Ignacio Negretti
 
 Analista de Sistemas | Cloud Support L2 | QA Automation
-<blockquote class="imgur-embed-pub" lang="en" data-id="A6qFpMU" data-context="false" ><a href="//imgur.com/A6qFpMU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="banner.gif" width="1000">
 
 ## About Me
 
