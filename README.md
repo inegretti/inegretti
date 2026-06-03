@@ -13,7 +13,7 @@ About Me<img src="abm.gif" width="40">
 - Linux and Cloud Technologies
 - Continuous learning and professional development
 
-<img src="trophy.gif" width="20">Certifications<img src="trophy.gif" width="20">
+<img src="trophy.gif" width="30">Certifications<img src="trophy.gif" width="30">
 
 - Microsoft PL-900
 - Red Hat Enterprise Linux Technical Overview
