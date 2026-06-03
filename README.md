@@ -25,7 +25,7 @@ Analista de Sistemas | Cloud Support L2 | QA Automation
 
 
 Technologies
-<img src="tool.png" width="60" height="40">
+<img src="gears.gif" width="60" height="40">
 
 
 Python • Selenium • Behave • Pytest • Linux • Git • Azure • Arduino • C++ • Java • Javascript • .Net • AWS • Ai and bots
