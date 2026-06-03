@@ -1,10 +1,11 @@
 # Ignacio Negretti
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/051d9807-1b5a-414e-a2b2-b773335b374f" />
 
 Analista de Sistemas | Cloud Support L2 | QA Automation
 
 ## About Me
 
-- 1+ year of experience in Cloud Support
+- 2 year of experience in Cloud Support
 - Experience with Python, Selenium, Behave and Pytest
 - Linux and Cloud Technologies
 - Continuous learning and professional development
