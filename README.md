@@ -1,4 +1,4 @@
-##Ignacio Negretti
+<h1>Ignacio Negretti</h1>
 
 Analista de Sistemas | Cloud Support L2 | QA Automation
 <img src="banner.gif" width="1000">
