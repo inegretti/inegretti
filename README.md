@@ -1,4 +1,4 @@
-<h1 font-size: 100em;><img src="tengu.png" width="30">Ignacio Negretti<img src="tengu.png"  style="transform: scaleX(-1); width="30"></h1>
+<h1 font-size: 100em;><img src="tengu.png" width="30">Ignacio Negretti</h1>
 
 Analista de Sistemas | Cloud Support L2 | QA Automation
 <img src="banner.gif" width="1000">
