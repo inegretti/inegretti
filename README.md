@@ -5,7 +5,7 @@
 </td>
 <td>
 
-# Ignacio Negretti
+# Ignacio Negretti Dietrich
 
 </td>
 </tr>
