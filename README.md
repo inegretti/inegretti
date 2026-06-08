@@ -10,6 +10,12 @@
 </td>
 </tr>
 </table>
+
+<h1>
+  <img src="tengu.png" width="50" align="center">
+  Ignacio Negretti
+</h1>
+
 <h2>Analista de Sistemas | Cloud Support L2 | QA Automation</h2>
 <img src="banner.gif" width="1000">
 
