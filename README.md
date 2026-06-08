@@ -3,7 +3,7 @@
 <h2>Analista de Sistemas | Cloud Support L2 | QA Automation</h2>
 <img src="banner.gif" width="1000">
 
-About Me<img src="abm.gif" width="40">
+<h2>About Me<img src="abm.gif" width="40"></h2>
 
 
 
