@@ -13,19 +13,19 @@
 - Linux and Cloud Technologies
 - Continuous learning and professional development
 
-<img src="trophy.gif" width="40">Certifications<img src="trophy.gif" width="40">
+<h2><img src="trophy.gif" width="40">Certifications<img src="trophy.gif" width="40"></h2>
 
 - Microsoft PL-900
 - Red Hat Enterprise Linux Technical Overview
 - Multiple IT and QA certifications
 
-Portfolio<img src="brief.gif" width="80">
+<h2>Portfolio<img src="brief.gif" width="80"></h2>
 
 👉 https://inegretti.github.io
 
 
 
-<img src="gears.gif" width="80">Technologies
+<h2><img src="gears.gif" width="80">Technologies</h2>
 
 
 Python • Selenium • Behave • Pytest • Linux • Git • Azure • Arduino • C++ • Java • Javascript • .Net • AWS • Ai and bots
