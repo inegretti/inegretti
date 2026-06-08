@@ -1,5 +1,5 @@
-<h1>
-    <img src="tengu.png" width="50" style="vertical-align: middle;">
+<h1 style="display: flex; align-items: center; gap: 10px;">
+    <img src="tengu.png" width="50">
     Ignacio Negretti
 </h1>
 <h2>Analista de Sistemas | Cloud Support L2 | QA Automation</h2>
