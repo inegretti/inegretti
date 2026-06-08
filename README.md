@@ -1,5 +1,7 @@
-<h1 font-size: 300em;><img src="tengu.png" width="50" style="vertical-align: middle;>Ignacio Negretti</h1>
-
+<h1>
+    <img src="tengu.png" width="50" style="vertical-align: middle;">
+    Ignacio Negretti
+</h1>
 <h2>Analista de Sistemas | Cloud Support L2 | QA Automation</h2>
 <img src="banner.gif" width="1000">
 
