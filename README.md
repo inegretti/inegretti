@@ -16,7 +16,7 @@
 - Linux and Cloud Technologies
 - Continuous learning and professional development
 
-<h2><img src="trophy.gif" width="40">Certifications<img src="trophy.gif" width="40"></h2>
+<h2><img src="trophy.gif" width="40" align="center">Certifications<img src="trophy.gif" width="40" align="center"></h2>
 
 - Microsoft PL-900
 - Red Hat Enterprise Linux Technical Overview
