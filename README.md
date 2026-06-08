@@ -1,16 +1,3 @@
-<table>
-<tr>
-<td>
-<img src="tengu.png" width="50">
-</td>
-<td>
-
-# Ignacio Negretti Dietrich
-
-</td>
-</tr>
-</table>
-
 <h1>
   <img src="tengu.png" width="50" align="center">
   Ignacio Negretti
