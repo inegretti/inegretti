@@ -1,7 +1,15 @@
-<h1>
-  <img src="tengu.png" width="50" style="vertical-align: middle;">
-  <span style="vertical-align: middle;">Ignacio Negretti</span>
-</h1>
+<table>
+<tr>
+<td>
+<img src="tengu.png" width="50">
+</td>
+<td>
+
+# Ignacio Negretti
+
+</td>
+</tr>
+</table>
 <h2>Analista de Sistemas | Cloud Support L2 | QA Automation</h2>
 <img src="banner.gif" width="1000">
 
