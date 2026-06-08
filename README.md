@@ -1,5 +1,5 @@
 <h1>
-  <img src="tengu.png" width="50" align="center">
+  <img src="tengu.png" width="75" align="center">
   Ignacio Negretti Dietrich
 </h1>
 
