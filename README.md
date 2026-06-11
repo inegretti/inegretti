@@ -1,7 +1,7 @@
 <h1>
   <img src="tengu.png" width="75" align="center">
   Ignacio Negretti Dietrich
-  <p>Analista de Sistemas | Cloud Support L2 | QA Automation</p>
+  Analista de Sistemas | Cloud Support L2 | QA Automation
 </h1>
 <p>Analista de Sistemas | Cloud Support L2 | QA Automation</p>
 <h2>Analista de Sistemas | Cloud Support L2 | QA Automation</h2>
